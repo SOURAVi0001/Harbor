@@ -1,0 +1,6 @@
+id,name,active,role
+1,Alice,True,Admin
+2,Bob,false,User
+3,Charlie,TRUE,User
+4,David,False,Manager
+5,Eve,true,Engineer
